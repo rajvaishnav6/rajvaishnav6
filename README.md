@@ -1,44 +1,162 @@
-# 💫 Hi 👋, I'm Raj Vaishnav
-**A passionate Software Engineer || Front-End Developer || Back-End Developer**
-
-Email Me 👉 ✉️ **rajvaishnavraj6@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently Student of:** B.Tech CSE Branch of Bansal College Engineering Mandidep
-- 🤔 **I’m have knowledge of:** Java | C++ | Python | HTML | CSS | JavaScrit | MySQL
-- 🌱 **I’m currently learning:** Django | React
-- 👯 **I’m looking to collaborate on:** Hospital Management System
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** rajvaishnavraj6@gmail.com
-- 😄 **Pronouns:** Raj Vaishnav
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-vaishnav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajvaishnavraj6@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# 👋 Hi, I'm Raj Vaishnav!
+
+### 💻 Full Stack Developer | Software Engineer | B.Tech CSE Student
+
+Building web applications and learning new technologies to solve real-world problems. 🚀
+
+<p>
+  <a href="https://github.com/rajvaishnav6">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/raj-vaishnav">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rajvaishnavraj6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajvaishnav6&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajvaishnav6&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvaishnav6&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajvaishnav6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 👨‍💻 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajvaishnav6&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 🎓 Pursuing **B.Tech in Computer Science & Engineering** at Bansal College of Engineering, Mandideep.
+* 💻 Interested in **Full Stack Development and Software Engineering**.
+* 🌱 Currently learning **React.js, Node.js, Express.js, and Django**.
+* 🛠️ Experienced in building projects using Java, JavaScript, databases, and web technologies.
+* 🏥 Developed a **Hospital Management System** using Java, JDBC, and MySQL.
+* 🔗 Interested in building practical applications that solve real-world problems.
+* 🤝 Open to collaborating on web development projects and open-source contributions.
+* 📫 Reach me at: **[rajvaishnavraj6@gmail.com](mailto:rajvaishnavraj6@gmail.com)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajvaishnav6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Hospital Management System
+
+A Java-based application designed to manage hospital operations and patient-related records.
+
+* **Technologies:** Java, Swing, AWT, JDBC, MySQL
+* **Focus:** Desktop application development and database connectivity.
+
+### 🔗 Blockchain Voting System
+
+A blockchain-based voting application focused on transparent voting and secure user authentication.
+
+* **Technologies:** React.js, Tailwind CSS, Node.js, Express.js, SQLite, Solidity, Ethereum
+* **Focus:** Authentication, role-based access, and blockchain integration.
+
+### 🍔 Byte2Bite — Food Ordering Application
+
+A food ordering application designed to provide a convenient ordering experience.
+
+* **Focus:** Frontend development, backend integration, authentication, and order management.
+
+> 💡 Explore my GitHub repositories to discover more projects and source code.
+
+🔗 **[View All My Projects](https://github.com/rajvaishnav6?tab=repositories)**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajvaishnav6&show_icons=true&theme=tokyonight&hide_border=true" alt="Raj's GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvaishnav6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvaishnav6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajvaishnav6&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajvaishnav6/rajvaishnav6/output/snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in learning, building projects, and connecting with fellow developers.
+
+* 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/raj-vaishnav)
+* 💻 **GitHub:** [Explore my repositories](https://github.com/rajvaishnav6)
+* 📧 **Email:** [Contact me](mailto:rajvaishnavraj6@gmail.com)
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Keep learning, keep building, and keep growing! 🚀*
+
+<img src="https://komarev.com/ghpvc/?username=rajvaishnav6&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</div>
