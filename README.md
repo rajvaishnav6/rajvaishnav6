@@ -10,7 +10,7 @@ Building web applications and learning new technologies to solve real-world prob
   <a href="https://github.com/rajvaishnav6">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/raj-vaishnav">
+  <a href="https://www.linkedin.com/in/raj-vaishnav-121154210/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rajvaishnavraj6@gmail.com">
@@ -147,7 +147,7 @@ A food ordering application designed to provide a convenient ordering experience
 
 I'm always interested in learning, building projects, and connecting with fellow developers.
 
-* 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/raj-vaishnav)
+* 💼 **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/raj-vaishnav-121154210/])
 * 💻 **GitHub:** [Explore my repositories](https://github.com/rajvaishnav6)
 * 📧 **Email:** [Contact me](mailto:rajvaishnavraj6@gmail.com)
 
