@@ -147,7 +147,7 @@ A food ordering application designed to provide a convenient ordering experience
 
 I'm always interested in learning, building projects, and connecting with fellow developers.
 
-* 💼 **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/raj-vaishnav-121154210/])
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raj-vaishnav-121154210/)
 * 💻 **GitHub:** [Explore my repositories](https://github.com/rajvaishnav6)
 * 📧 **Email:** [Contact me](mailto:rajvaishnavraj6@gmail.com)
 
