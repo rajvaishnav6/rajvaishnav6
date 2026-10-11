@@ -121,27 +121,6 @@ A food ordering application designed to provide a convenient ordering experience
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajvaishnav6&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rajvaishnav6/rajvaishnav6/output/snake.svg" alt="Snake animation"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
