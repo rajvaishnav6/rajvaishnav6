@@ -200,10 +200,8 @@ A personal portfolio website showcasing my developer profile, skills, and projec
 ## 🔥 GitHub Contribution Streak
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=rajvaishnav6&theme=tokyonight&hide_border=true"
+  <img src="./profile/streak.svg"
        alt="GitHub Contribution Streak"/>
-
 </div>
 
 ---
@@ -211,10 +209,8 @@ A personal portfolio website showcasing my developer profile, skills, and projec
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-  <img src="https://github-trophies.vercel.app/?username=rajvaishnav6"
+  <img src="./profile/trophy.svg"
        alt="GitHub Trophies"/>
-
 </div>
 
 ---
@@ -222,10 +218,9 @@ A personal portfolio website showcasing my developer profile, skills, and projec
 ## 👀 Profile Views
 
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=rajvaishnav6&style=for-the-badge&color=blue"
-       alt="Profile Views"/>
-
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=rajvaishnav6.rajvaishnav6&left_text=Profile%20Views&logo=github"
+    alt="Profile Views"/>
 </div>
 
 ---
