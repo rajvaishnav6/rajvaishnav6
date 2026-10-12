@@ -136,6 +136,6 @@ I'm always interested in learning, building projects, and connecting with fellow
 
 *Keep learning, keep building, and keep growing! 🚀*
 
-<img src="https://responsive-portfolio-website-ashen.vercel.app/" alt="Views Portfolio"/>
+<img href="https://responsive-portfolio-website-ashen.vercel.app/" alt="Views Portfolio"/>
 
 </div>
