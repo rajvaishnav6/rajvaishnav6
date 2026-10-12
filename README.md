@@ -66,14 +66,13 @@ Building web applications, exploring new technologies, and solving real-world pr
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgresSQL-003B57?style=for-the-badge&logo=postgressql&logoColor=white" alt="PostgresSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
@@ -108,7 +107,11 @@ A Java-based desktop application developed to manage hospital-related operations
 
 **Tech Stack:** Java, Swing, AWT, JDBC, MySQL
 
-🔗 [Explore My GitHub Repositories](https://github.com/rajvaishnav6?tab=repositories)
+<p>
+  <a href="https://github.com/rajvaishnav6/Hospital_Management_System">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 ---
 
@@ -148,7 +151,14 @@ A food ordering application focused on providing users with a convenient way to 
 
 **Focus Areas:** Full Stack Development, Authentication, Order Management
 
-🔗 [Explore My GitHub Repositories](https://github.com/rajvaishnav6?tab=repositories)
+<p>
+  <a href="https://github.com/rajvaishnav6/Byte2Bite">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="https://byte-2-bite.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
 
 ---
 
@@ -187,40 +197,35 @@ A personal portfolio website showcasing my developer profile, skills, and projec
 
 ---
 
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=rajvaishnav6&theme=tokyonight&hide_border=true"
+       alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajvaishnav6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=rajvaishnav6"
+       alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always interested in learning new technologies, building useful applications, and connecting with fellow developers.
-
-<p>
-  <a href="https://www.linkedin.com/in/raj-vaishnav-121154210/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rajvaishnavraj6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://responsive-portfolio-website-ashen.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
+## 👀 Profile Views
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
-
-**Keep Learning • Keep Building • Keep Growing 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=rajvaishnav6&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rajvaishnav6&style=for-the-badge&color=blue"
+       alt="Profile Views"/>
 
 </div>
+
+---
