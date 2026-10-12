@@ -136,6 +136,6 @@ I'm always interested in learning, building projects, and connecting with fellow
 
 *Keep learning, keep building, and keep growing! 🚀*
 
-<img src="https://komarev.com/ghpvc/?username=rajvaishnav6&style=for-the-badge&color=blue" alt="Profile Views"/>
+<img src="[https://komarev.com/ghpvc/?username=rajvaishnav6&style=for-the-badge&color=blue](https://responsive-portfolio-website-ashen.vercel.app/)" alt="Views Portfolio"/>
 
 </div>
