@@ -136,6 +136,8 @@ I'm always interested in learning, building projects, and connecting with fellow
 
 *Keep learning, keep building, and keep growing! 🚀*
 
-<img href="https://responsive-portfolio-website-ashen.vercel.app/" alt="Views Portfolio"/>
+<a href="https://responsive-portfolio-website-ashen.vercel.app/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
+</a>
 
 </div>
