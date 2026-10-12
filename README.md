@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm Raj Vaishnav!
 
-### 💻 Full Stack Developer | Software Engineer | B.Tech CSE Student
+### 💻 Full Stack Developer | Aspiring Software Engineer
 
-Building web applications and learning new technologies to solve real-world problems. 🚀
+🎓 B.Tech Computer Science & Engineering Student | Batch 2027
+
+Building web applications, exploring new technologies, and solving real-world problems through code. 🚀
 
 <p>
   <a href="https://github.com/rajvaishnav6">
@@ -16,6 +18,9 @@ Building web applications and learning new technologies to solve real-world prob
   <a href="mailto:rajvaishnavraj6@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://responsive-portfolio-website-ashen.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 </div>
@@ -25,13 +30,14 @@ Building web applications and learning new technologies to solve real-world prob
 ## 👨‍💻 About Me
 
 * 🎓 Pursuing **B.Tech in Computer Science & Engineering** at Bansal College of Engineering, Mandideep.
-* 💻 Interested in **Full Stack Development and Software Engineering**.
+* 💻 Interested in **Full Stack Development, Web Development, and Software Engineering**.
 * 🌱 Currently learning **React.js, Node.js, Express.js, and Django**.
-* 🛠️ Experienced in building projects using Java, JavaScript, databases, and web technologies.
-* 🏥 Developed a **Hospital Management System** using Java, JDBC, and MySQL.
-* 🔗 Interested in building practical applications that solve real-world problems.
-* 🤝 Open to collaborating on web development projects and open-source contributions.
-* 📫 Reach me at: **[rajvaishnavraj6@gmail.com](mailto:rajvaishnavraj6@gmail.com)**
+* 🛠️ Building projects using Java, JavaScript, React, backend technologies, and databases.
+* 🏥 Developed a **Hospital Management System** using Java, Swing, JDBC, and MySQL.
+* 🔗 Built a **Blockchain Voting System** with React.js, Node.js, Express.js, and Ethereum technologies.
+* 🍔 Worked on **Byte2Bite**, a food ordering application with authentication and order management.
+* 🤝 Interested in collaborating on development projects and learning from other developers.
+* 📫 Email: **[rajvaishnavraj6@gmail.com](mailto:rajvaishnavraj6@gmail.com)**
 
 ---
 
@@ -51,7 +57,7 @@ Building web applications and learning new technologies to solve real-world prob
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
@@ -67,8 +73,15 @@ Building web applications and learning new technologies to solve real-world prob
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### 🔗 Blockchain Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 </p>
 
 ### 🛠️ Tools & Technologies
@@ -76,36 +89,81 @@ Building web applications and learning new technologies to solve real-world prob
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
+### 🏥 1. Hospital Management System
 
-A Java-based application designed to manage hospital operations and patient-related records.
+A Java-based desktop application developed to manage hospital-related operations and patient records.
 
-* **Technologies:** Java, Swing, AWT, JDBC, MySQL
-* **Focus:** Desktop application development and database connectivity.
+**Key Highlights**
 
-### 🔗 Blockchain Voting System
+* Developed using Java Swing and AWT.
+* Connected the application to a MySQL database using JDBC.
+* Practiced desktop application development and database management.
 
-A blockchain-based voting application focused on transparent voting and secure user authentication.
+**Tech Stack:** Java, Swing, AWT, JDBC, MySQL
 
-* **Technologies:** React.js, Tailwind CSS, Node.js, Express.js, SQLite, Solidity, Ethereum
-* **Focus:** Authentication, role-based access, and blockchain integration.
+🔗 [Explore My GitHub Repositories](https://github.com/rajvaishnav6?tab=repositories)
 
-### 🍔 Byte2Bite — Food Ordering Application
+---
 
-A food ordering application designed to provide a convenient ordering experience.
+### 🔗 2. Blockchain Voting System
 
-* **Focus:** Frontend development, backend integration, authentication, and order management.
+A blockchain-based voting application designed to support transparent voting and secure user authentication.
 
-> 💡 Explore my GitHub repositories to discover more projects and source code.
+**Key Highlights**
 
-🔗 **[View All My Projects](https://github.com/rajvaishnav6?tab=repositories)**
+* Built a responsive frontend using React.js and Tailwind CSS.
+* Developed backend functionality using Node.js and Express.js.
+* Implemented authentication and role-based access.
+* Integrated Ethereum and Solidity technologies into the project.
+
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, SQLite, Solidity, Ethereum
+
+<p>
+  <a href="https://github.com/rajvaishnav6/blockchain-voting-system">
+    <img src="https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="https://blockchain-voting-system-iota.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+---
+
+### 🍔 3. Byte2Bite — Food Ordering Application
+
+A food ordering application focused on providing users with a convenient way to explore food ordering functionality.
+
+**Key Highlights**
+
+* Developed frontend and backend functionality.
+* Worked on user authentication.
+* Implemented order management functionality.
+
+**Focus Areas:** Full Stack Development, Authentication, Order Management
+
+🔗 [Explore My GitHub Repositories](https://github.com/rajvaishnav6?tab=repositories)
+
+---
+
+### 🌐 4. Personal Developer Portfolio
+
+A personal portfolio website showcasing my developer profile, skills, and projects.
+
+<p>
+  <a href="https://responsive-portfolio-website-ashen.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View_Live_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+  </a>
+  <a href="https://github.com/rajvaishnav6?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+  </a>
+</p>
 
 ---
 
@@ -113,31 +171,56 @@ A food ordering application designed to provide a convenient ordering experience
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajvaishnav6&show_icons=true&theme=tokyonight&hide_border=true" alt="Raj's GitHub Stats"/>
+<a href="https://github.com/rajvaishnav6">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajvaishnav6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raj's GitHub Stats"/>
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvaishnav6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/rajvaishnav6">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvaishnav6&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvaishnav6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=rajvaishnav6&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
+---
 
-## 🤝 Let's Connect!
-
-I'm always interested in learning, building projects, and connecting with fellow developers.
-
-* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raj-vaishnav-121154210/)
-* 💻 **GitHub:** [Explore my repositories](https://github.com/rajvaishnav6)
-* 📧 **Email:** [Contact me](mailto:rajvaishnavraj6@gmail.com)
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://github-profile-trophy.vercel.app/?username=rajvaishnav6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
-*Keep learning, keep building, and keep growing! 🚀*
+</div>
 
-<a href="https://responsive-portfolio-website-ashen.vercel.app/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
-</a>
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in learning new technologies, building useful applications, and connecting with fellow developers.
+
+<p>
+  <a href="https://www.linkedin.com/in/raj-vaishnav-121154210/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rajvaishnavraj6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://responsive-portfolio-website-ashen.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=rajvaishnav6&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
